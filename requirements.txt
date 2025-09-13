@@ -1,0 +1,11 @@
+# Core Python data stack
+pandas
+numpy
+scikit-learn
+matplotlib
+pyarrow
+
+# Jupyter & notebook support
+notebook
+jupyter
+ipykernel
